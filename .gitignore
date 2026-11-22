@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+comparacion_astar.png
+astar_animacion.gif
